@@ -17,7 +17,7 @@ For max set the number to 100 (that's most allowed in free mode). Then click Pla
 
 
 
-Mission.py
+# Mission.py
 is my own script and attempt at creating a bot. Could use some cleaning up. The authorization baerer needs to be put into the command line. I don't believe you 
 can run this while being logged into the Synack and looking for vulns. The Auth cookie gets refreshed after awhile and may cause issues.
 
